@@ -1,14 +1,10 @@
 # Processador de Vídeo Monolítico (O "Vilão")
 
-[![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-D22128?style=for-the-badge&logo=apache&logoColor=white)](https://opensource.org/licenses/Apache-2.0)
 ![Java 25](https://img.shields.io/badge/Java_25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.5-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Spring_Data_JPA_%2F_Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg_%2F_JavaCV-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_15-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 Este projeto é a implementação de um sistema monolítico para processamento de vídeo. Ele foi construído propositalmente como o **"Monolito Vilão"** para um trabalho acadêmico, servindo como a base de comparação ("o antes") contra uma futura arquitetura de microsserviços ("o depois").
 
